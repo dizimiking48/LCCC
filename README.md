@@ -1,2 +1,2 @@
-# LCCC
+# LCC
 Church website
